@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.CourtCounter" parent="Theme.AppCompat">
+        <item name="android:windowBackground">#000000</item>
+        <item name="colorPrimary">#FF5722</item>
+        <item name="colorPrimaryDark">#F6734A</item>
+        <item name="colorButtonNormal">#FF5722</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
